@@ -1,3 +1,3 @@
-# Text Styling Assingment
+# Text Styling Assingnment
 
 ## Web Fundamentals
